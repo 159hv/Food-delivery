@@ -59,8 +59,6 @@ app/src/main/
 
 ### 规格选择
 
-在 [FoodActivity.java](file:///c:/Users/32003/Desktop/202319120530-朱咏颖/Food delivery/app/src/main/java/njust/dzh/ordersystem/Activity/FoodActivity.java) 中实现了规格选择功能：
-
 - 通过 RadioGroup 动态生成规格选项
 - 默认选中第一个规格
 - 添加购物车前验证是否选择了规格
